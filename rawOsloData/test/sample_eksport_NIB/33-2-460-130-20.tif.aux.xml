@@ -1,0 +1,11 @@
+<PAMDataset>
+  <Metadata domain="xml:ESRI:functions" format="xml">
+    <FunctionTemplates xsi:type="typens:ArrayOfArgument" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/3.2.0">
+      <Argument xsi:type="typens:IdentityFunction">
+        <Name>None</Name>
+        <Description>Make a Raster or Raster Dataset into a Function Raster Dataset.</Description>
+        <PixelType>UNKNOWN</PixelType>
+      </Argument>
+    </FunctionTemplates>
+  </Metadata>
+</PAMDataset>
